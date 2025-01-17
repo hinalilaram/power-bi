@@ -5,3 +5,6 @@ Atliq, a computer hardware business, is struggling to keep up with the challenge
 Data Analysis Using Power BI
 ============================
 ![alt text](dashboard.png)
+
+
+![alt text](dashboard_video.mp4)
