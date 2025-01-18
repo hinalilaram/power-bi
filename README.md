@@ -1,28 +1,14 @@
-# power-bi
-Extracting insights from various datasets and creating visuals
-
-# Power BI - Sales Analysis
+# Power BI
 
 This repository focuses on extracting insights from various datasets and creating visuals using **Power BI**. It aims to showcase data visualization skills and business intelligence capabilities by analyzing sales data.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Project Link](#project-link)
+- [Project Links](#project-links)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Contact](#contact)
 
-## Introduction
-The goal of this project is to use Power BI to analyze sales data and derive meaningful insights. By leveraging visualizations and dashboards, the project demonstrates how businesses can make data-driven decisions effectively.
-
-## Features
-- Interactive dashboards
-- Data cleaning and transformation
-- Insights into sales trends, customer behavior, and product performance
-- Drill-downs for detailed analysis
-
-## Project Link
+## Project Links
 - [Sales Analysis Project](./sales-analysis/README.md)
 
 ## Technologies Used
