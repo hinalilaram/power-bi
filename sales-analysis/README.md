@@ -7,7 +7,6 @@ Data Analysis Using Power BI
 ============================
 ![alt text](dashboard.png)
 
-
 ## Objectives
 1. Provide a clear and comprehensive view of sales performance.
 2. Identify top-performing customers, markets, and products.
